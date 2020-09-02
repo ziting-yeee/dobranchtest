@@ -3,6 +3,9 @@
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <div>today is Tuesday</div>
+    <div>hello zijin</div>
+    <div>hello ziting</div>
+    <div>hello emma</div>
     <ul>
       <li>
         <a
