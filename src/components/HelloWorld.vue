@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
+    <div>today is Tuesday</div>
     <ul>
       <li>
         <a
